@@ -9,7 +9,7 @@
 	<form action="script.php" method="POST" >
             <div class="formclass">
                 <input class="firstname" id="name" type="text" name="name" required placeholder="UserName"><br>
-				<input class="password" name="pwd" type="password" required placeholder="??????">  
+				<input class="password" name="pwd" type="password" required placeholder="Password">  
                 <input  type="email" id="email" name="email" required placeholder="Email"><br>
                 <input type="text" id="phno" name="PhoneNumber" required placeholder="Phone Number"><br>
             </div>
