@@ -1,8 +1,9 @@
 <?php
-    $servername = '127.0.0.1';
-    $username   = "root";
-    $password   = "";
-    $database="userdetails";
+    
+    $servername = 'remotemysql.com';
+    $username   = 'rKPvlRVSz0';
+    $password   = 'jbqk8zQSpM';
+    $database='rKPvlRVSz0';
 
     // checking the database connection
 
